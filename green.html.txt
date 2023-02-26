@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go Green</title>
+    <link rel="icon" href="https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662__480.jpg">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <!-- Navbar Starts -->
+        <nav>
+            <a href="" class="brand-logo">GREEN</a>
+            <ul>
+                <li>
+                    <a href="">Home</a>
+                </li>
+                <li>
+                    <a href="">About</a>
+                </li>
+                <li>
+                    <a href="">Services</a>
+                </li>
+                <li>
+                    <a href="">Portfolio</a>
+                </li>
+                <li>
+                    <a href="">Team</a>
+                </li>
+                <li>
+                    <a href="">Contact</a>
+                </li>
+                <li>
+                    <a href="" class="nav-btn">Get Started</a>
+                </li>
+
+            </ul>
+        </nav>
+    <!-- Navbar Ends -->
+
+    <!-- banner Starts -->
+        <div class="banner">
+            <div class="banner-content">
+                <h1>Sequi ea ut et est quaerat</h1>
+                <p>
+                    Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi 
+                    nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
+                    Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.
+                </p>
+                <a href="" class="banner-btn">Read More</a>
+            </div>
+        </div>
+    <!-- Banner ends -->
+
+    <!-- Icons Starts -->
+        <div class="icons">
+            <div class="icons-child">
+                <i class="far fa-laptop"></i>
+                <h2>Lorem Ipsum</h2>
+                <p>
+                    Voluptatum deleniti atque corrupti quos dolores et quas molestias 
+                    excepturi sint occaecati cupiditate non provident
+                </p>
+            </div>
+            <div class="icons-child">
+                <i class="fal fa-briefcase"></i>
+                <h2>Dolor Sitema</h2>
+                <p>
+                    Minim veniam, quis nostrud exercitation ullamco laboris nisi 
+                    ut aliquip ex ea commodo consequat tarad limino ata
+                </p>
+            </div>
+            <div class="icons-child">
+                <i class="far fa-calendar-alt"></i>
+                <h2>Sed ut perspiciatis</h2>
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                     dolore eu fugiat nulla pariatur trade stravi
+                </p>
+            </div>
+        </div>
+    <!-- Icons ends -->
+    <!-- About us Starts -->
+        <div class="aboutus">
+            <h1>ABOUT US</h1>
+            <hr>
+            <p class="pR">
+                Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid 
+                fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. 
+                Et nemo qui impedit suscipit alias ea. 
+                Quia fugiat sit in iste officiis commodi quidem hic quas.
+            </p>
+            <div class="aboutus-child">
+                <div class="aboutus-content">
+                    <h2>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                        incididunt ut labore et dolore magna aliqua.
+                    </p>
+                    <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                        Duis aute irure dolor in reprehenderit in voluptate trideta
+                         storacalaperda mastiro dolore eu fugiat nulla pariatur.
+                    </p>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
+                        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+                        sunt in culpa qui officia deserunt mollit anim id est laborum
+                    </p>
+                </div>
+                <div class="aboutus-image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/about.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    <!-- About Us Ends -->
+
+    <!-- our clients starts -->
+        <div class="clients">
+            <h1>OUR CLIENTS</h1>
+            <hr>
+            <p class="para">
+                Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga 
+                eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo 
+                qui impedit suscipit alias ea. Quia fugiat sit in iste officiis 
+                commodi quidem hic quas.
+            </p>
+            <div class="clients-child">
+                <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/clients/client-1.png" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/clients/client-2.png" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/clients/client-3.png" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/clients/client-4.png" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/clients/client-5.png" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/clients/client-6.png" alt="">
+            </div>
+        </div>
+    <!-- our clients ends -->
+
+    <!-- services Starts -->
+        <div class="services">
+            <h1>SERVICES</h1>
+            <hr>
+            <p class="para">
+                Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga 
+                eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo 
+                qui impedit suscipit alias ea. Quia fugiat sit in iste officiis 
+                commodi quidem hic quas.
+            </p>
+
+            <div class="services-child">
+                <div class="services-cards">
+                    <div class="card-content">
+                        <i class="fab fa-dribbble"></i>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
+                </div>
+                <div class="services-cards">
+                    <div class="card-content">
+                        <i class="far fa-file-invoice"></i>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
+                </div>
+                <div class="services-cards">
+                    <div class="card-content">
+                        <i class="far fa-tachometer"></i>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
+                </div>
+                <div class="services-cards">
+                    <div class="card-content">
+                        <i class="fal fa-layer-group"></i>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
+                </div>
+                <div class="services-cards">
+                    <div class="card-content">
+                        <i class="fal fa-presentation"></i>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
+                </div>
+                <div class="services-cards">
+                    <div class="card-content">
+                        <i class="fal fa-archway"></i>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- services Ends -->
+
+    <!-- CTA Starts -->
+        <div class="cta">
+            <div class="child-1">
+                <h1>Call To Action</h1>
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse 
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+                    sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+            </div>
+
+            <div class="child-2">
+                <a href="">Call To Action</a>
+            </div>
+        </div>
+    <!-- CTA Ends -->
+
+    <!-- portfolio starts -->
+        <div class="portfolio">
+            <h1>PORTFOLIO</h1>
+            <hr>
+            <p>
+                Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex 
+                aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam 
+                cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis 
+                commodi quidem hic quas.
+            </p>
+            <div class="portfolio-images">
+                <div class="image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/portfolio/portfolio-1.jpg" alt="">
+                    <div class="image-content">
+                        App1 <br>
+                        App <br>
+                        +
+                    </div>
+                </div>
+                <div class="image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/portfolio/portfolio-2.jpg" alt="">
+                    <div class="image-content">
+                        App1 <br>
+                        App <br>
+                        +
+                    </div>
+                </div>
+                <div class="image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/portfolio/portfolio-3.jpg" alt="">
+                    <div class="image-content">
+                        App1 <br>
+                        App <br>
+                        +
+                    </div>
+                </div>
+                <div class="image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/portfolio/portfolio-4.jpg" alt="">
+                    <div class="image-content">
+                        App1 <br>
+                        App <br>
+                        +
+                    </div>
+                </div>
+                <div class="image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/portfolio/portfolio-5.jpg" alt="">
+                    <div class="image-content">
+                        App1 <br>
+                        App <br>
+                        +
+                    </div>
+                </div>
+                <div class="image">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/portfolio/portfolio-6.jpg" alt="">
+                    <div class="image-content">
+                        App1 <br>
+                        App <br>
+                        +
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- portfolio ends -->
+
+    <!-- team starts -->
+        <div class="team">
+            <div class="team-child">
+                <div class="team-content">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/team/team-1.jpg" alt="">
+                    <h2>Walter White</h2>
+                    <p>Chief Executive Officer</p>
+                    <p>Magni qui quod omnis unde et eos fuga et exercitationem. 
+                        Odio veritatis perspiciatis quaerat qui aut aut aut
+                    </p>
+                    <div>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                </div>
+                <div class="team-content">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/team/team-2.jpg" alt="">
+                    <h2>Walter White</h2>
+                    <p>Chief Executive Officer</p>
+                    <p>Magni qui quod omnis unde et eos fuga et exercitationem. 
+                        Odio veritatis perspiciatis quaerat qui aut aut aut
+                    </p>
+                    <div>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                </div>
+                <div class="team-content">
+                    <img src="https://bootstrapmade.com/demo/templates/Green/assets/img/team/team-3.jpg" alt="">
+                    <h2>Walter White</h2>
+                    <p>Chief Executive Officer</p>
+                    <p>Magni qui quod omnis unde et eos fuga et exercitationem. 
+                        Odio veritatis perspiciatis quaerat qui aut aut aut
+                    </p>
+                    <div>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- team ends -->
+
+    <!-- contact starts -->
+        <div class="conatct">
+            <div class="contact-child">
+                <div class="conatct-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6863431682086!2d77.55526225023694!3d12.991902317903103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d8b94643243%3A0x40375a113400fb58!2sJSpiders%20Rajajinagar!5e0!3m2!1sen!2sin!4v1643801596457!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div class="contact-form">
+                    <div class="info">
+                        <input type="text" placeholder="Your Name">
+                        <input type="text" placeholder="Your Email">
+                    </div>
+                    <div class="subject">
+                        <input type="text" placeholder="Subject">
+                    </div>
+                    <div class="message">
+                        <textarea placeholder="Message" cols="30" rows="10"></textarea>
+                    </div>
+                    <div class="form-btn">
+                        <button>Send Message</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- contact ends -->
+</body>
+</html>
